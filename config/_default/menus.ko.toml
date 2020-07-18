@@ -23,13 +23,13 @@
       name = "교정"
       parent = "services"
       url = "#editing"
-      weight = 30
+      weight = 20
       
       [[main]]
       name = "감수"
       parent = "services"
       url = "#proofreading"
-      weight = 20
+      weight = 30
 
 [[main]]
   name = "블로그"
