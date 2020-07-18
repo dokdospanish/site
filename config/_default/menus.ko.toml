@@ -23,12 +23,12 @@
   url = "#contact"
   weight = 40
   
-[[menu.main]]
+[[main]]
 name = "Projects"
 identifier = "projects"
 weight = 50
 
-[[menu.main]]
+[[main]]
 name = "printSheetApp"
 parent = "projects"
 url = "#projects"
