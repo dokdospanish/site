@@ -23,7 +23,7 @@ height = "calc(100vh - 70px)"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "galaxy_626x384.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -42,6 +42,11 @@ height = "calc(100vh - 70px)"
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "color_pencils_612x405.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "바로가기"
+  cta_url = "https://sourcethemes.com/academic/"
+  cta_icon_pack = "enoji"
+  cta_icon = "100"
 
 [[item]]
   title = "Right"
