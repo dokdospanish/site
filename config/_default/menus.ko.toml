@@ -10,8 +10,26 @@
   
 [[main]]
   name = "서비스"
-  url = "#services"
+  identifier = "services"
   weight = 20
+  
+      [[main]]
+      name = "번역"
+      parent = "services"
+      url = "#translation"
+      weight = 10
+      
+      [[main]]
+      name = "교정"
+      parent = "services"
+      url = "#editing"
+      weight = 30
+      
+      [[main]]
+      name = "감수"
+      parent = "services"
+      url = "#proofreading"
+      weight = 20
 
 [[main]]
   name = "블로그"
@@ -22,17 +40,7 @@
   name = "문의"
   url = "#contact"
   weight = 40
-  
-[[main]]
-name = "Projects"
-identifier = "projects"
-weight = 50
-
-[[main]]
-name = "printSheetApp"
-parent = "projects"
-url = "#projects"
-weight = 50
+ 
 
 
 # Link to a PDF of your resume/CV from the menu.
