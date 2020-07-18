@@ -11,10 +11,14 @@
 [ko]
   languageCode = "ko"
   contentDir = "content/ko"
-  title = "Korean website title..."
+  title = "Dokdo Spanish"
   [ko.params]
-    description = "Site description in Korean..."
+    description = "독도 스페인어"
   [[ko.menu.main]]
-    name = "Wo"
+    name = "소개"
+    url = "#about"
+    weight = 1
+    
+    name = "서비스 가격"
     url = "#about"
     weight = 1
