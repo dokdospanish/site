@@ -20,5 +20,5 @@
     weight = 1
     
     name = "서비스 가격"
-    url = "#about"
+    url = "#projects"
     weight = 1
