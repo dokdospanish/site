@@ -17,7 +17,7 @@ height = "calc(100vh - 70px)"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "콘텐츠 번역"
-  content = "유튜버를 위한 완성형 자막 :youtube:"
+  content = "유튜버를 위한 완성형 자막"
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -31,8 +31,8 @@ height = "calc(100vh - 70px)"
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "바로가기"
   cta_url = "https://sourcethemes.com/academic/"
-  cta_icon_pack = "emoji"
-  cta_icon = ":video_game:"
+  cta_icon_pack = "fab"
+  cta_icon = "youtube"
 
 [[item]]
   title = "Left"
