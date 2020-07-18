@@ -35,8 +35,8 @@ height = "calc(100vh - 70px)"
   cta_icon = "youtube"
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
+  title = "원어민 교정"
+  content = "완벽하고 자연스러운 표현을 위한 마지막 터치"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
