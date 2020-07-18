@@ -22,6 +22,16 @@
   name = "문의"
   url = "#contact"
   weight = 40
+  
+[[menu.main]]
+name = "Projects"
+identifier = 'projects'
+
+
+[[menu.main]]
+name = 'printSheetApp'
+parent = 'projects'
+url = 'oganm.com/shiny/printSheetApp'
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
