@@ -11,7 +11,7 @@
 [[main]]
   name = "서비스"
   identifier = "services"
-  url= "#slider"
+  url = "#services"
   weight = 20
   
       [[main]]
