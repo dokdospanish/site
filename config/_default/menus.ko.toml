@@ -4,33 +4,33 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "소개"
-  url = "#about"
-  weight = 10
-  
-[[main]]
   name = "서비스"
   identifier = "services"
   url = "#services"
-  weight = 20
+  weight = 10
   
-      [[main]]
-      name = "번역"
-      parent = "services"
-      url = "#translation"
-      weight = 10
+      #[[main]]
+      #name = "번역"
+      #parent = "services"
+      #url = "#translation"
+      #weight = 10
       
-      [[main]]
-      name = "교정"
-      parent = "services"
-      url = "#editing"
-      weight = 20
+      #[[main]]
+      #name = "교정"
+      #parent = "services"
+      #url = "#editing"
+      #weight = 20
       
-      [[main]]
-      name = "감수"
-      parent = "services"
-      url = "#proofreading"
-      weight = 30
+      #[[main]]
+      #name = "감수"
+      #parent = "services"
+      #url = "#proofreading"
+      #weight = 30
+      
+[[main]]
+  name = "소개"
+  url = "#about"
+  weight = 20
 
 [[main]]
   name = "블로그"
