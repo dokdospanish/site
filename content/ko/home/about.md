@@ -26,7 +26,7 @@ subtitle = "This is a subtitle"
   
   # Background gradient.
   gradient_start = "Teal"
-  gradient_end = "LightYellow"
+  gradient_end = "White"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
@@ -36,7 +36,7 @@ subtitle = "This is a subtitle"
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
