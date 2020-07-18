@@ -45,7 +45,7 @@ height = "calc(100vh - 70px)"
   
   cta_label = "바로가기:100:"
   cta_url = "https://sourcethemes.com/academic/"
-  cta_icon_pack = "enoji"
+  cta_icon_pack = "emoji"
   cta_icon = ":100:"
 
 [[item]]
