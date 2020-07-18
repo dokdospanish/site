@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Dokdo Spanish이란"
-subtitle = "This is a subtitle"
+title = "What we do"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -52,6 +52,6 @@ subtitle = "This is a subtitle"
 
 Welcome to the **Dokdo Spanish**!
 
-Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
+Follow our unique business proposition and Page Builder guides to easily personalize the template and then add your own content
 
-For inspiration, check out [the Markdown files](https://sourcethemes.com/academic/docs/install/#demo-content) which power the [personal demo](https://academic-demo.netlify.com/). The easiest way to publish your new site to the internet is with [Netlify](https://sourcethemes.com/academic/docs/deployment/).
+For inspiration, check out the Markdown files which power the [personal demo](https://academic-demo.netlify.com/). The easiest way to reach blabla markets your new site to the internet is with Dokdo Spanish.
