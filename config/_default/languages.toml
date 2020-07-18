@@ -14,11 +14,7 @@
   title = "Dokdo Spanish"
   [ko.params]
     description = "독도 스페인어"
-  [[ko.menu.main]]
-    name = "소개"
-    url = "#about"
-    weight = 1
-    
-    name = "서비스 가격"
-    url = "#projects"
-    weight = 1
+#  [[ko.menu.main]]
+#    name = "소개"
+#    url = "#about"
+#    weight = 1
