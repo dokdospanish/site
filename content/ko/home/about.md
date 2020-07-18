@@ -25,7 +25,7 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "Teal"
+  gradient_start = "Gainsboro"
   gradient_end = "White"
   
   # Background image.
@@ -40,7 +40,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["40px", "0", "20px", "0"]
 
 [advanced]
  # Custom CSS. 
