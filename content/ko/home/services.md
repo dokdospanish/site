@@ -24,7 +24,7 @@ height = "calc(100vh - 70px)"
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "galaxy_626x384.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -55,5 +55,14 @@ height = "calc(100vh - 70px)"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "slider/eiffel_453x900.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.9  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.7  # Darken the image. Value in range 0-1.
+  
+[[item]]
+  title = "스퀘어"
+  content = "나는 피터파터다. ㅋㅋㅋㅋㅋ"
+  align = "left"
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "slider/square_704.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 +++
