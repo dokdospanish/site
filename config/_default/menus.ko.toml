@@ -25,13 +25,13 @@
   
 [[menu.main]]
 name = "Projects"
-identifier = 'projects'
+identifier = "projects"
 weight = 50
 
 [[menu.main]]
-name = 'printSheetApp'
-parent = 'projects'
-url = '#projects'
+name = "printSheetApp"
+parent = "projects"
+url = "#projects"
 weight = 50
 
 
