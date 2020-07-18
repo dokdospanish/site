@@ -36,17 +36,17 @@ height = "calc(100vh - 70px)"
 
 [[item]]
   title = "원어민 교정"
-  content = "완벽하고 자연스러운 표현을 위한 마지막 터치"
+  content = "완벽하고 자연스러운 표현을 위한 마지막 터치 :100:"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "color_pencils_612x405.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-  cta_label = "바로가기:100:"
+  cta_label = "바로가기"
   cta_url = "https://sourcethemes.com/academic/"
-  cta_icon_pack = "emoji"
-  cta_icon = "100"
+  cta_icon_pack = "fas"
+  cta_icon = "check-square"
 
 [[item]]
   title = "Right"
