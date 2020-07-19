@@ -41,8 +41,8 @@ subtitle = "바교하세요!"
 [[feature]]
   icon = "piggy-bank"
   icon_pack = "fas"
-  name = "시산은 돈이디!"
-  description = "영어 번역하고 남미번역가한테 스페인어 번역을 의뢰하면은 1주일, 독·스는 딱 하루!" 
+  name = "시간은 돈이디!"
+  description = "영어 번역하고 남미 소재 번역가한테 스페인어 번역을 의뢰하면은 1주일, **독·스는 딱 하루!**" 
 
 # Uncomment to use emoji icons.
 # [[feature]]
