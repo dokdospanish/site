@@ -27,22 +27,16 @@ subtitle = "바교하세요!"
   description = "50%"
   
 [[feature]]
-  icon = "angry"
-  icon_pack = "far"
-  name = "독도 스페인어"
-  description = "100%"  
+  icon = "piggy-bank"
+  icon_pack = "fas"
+  name = "시간은 돈이다!"
+  description = "영어 번역하고 남미 소재 번역가한테 스페인어 번역을 의뢰하면은 1주일, **독·스는 딱 하루!**" 
   
 [[feature]]
   icon = "spell-check"
   icon_pack = "fas"
   name = "Unlimited revisions"
-  description = "100%"  
-  
-[[feature]]
-  icon = "piggy-bank"
-  icon_pack = "fas"
-  name = "시간은 돈이디!"
-  description = "영어 번역하고 남미 소재 번역가한테 스페인어 번역을 의뢰하면은 1주일, **독·스는 딱 하루!**" 
+  description = "100%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
