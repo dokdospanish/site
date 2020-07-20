@@ -1,5 +1,5 @@
 ---
-title: 'Academic: the website builder for Hugo'
+title: '자막 만들기 더 편하게 하는 DIY 패달'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
 summary: Create a beautifully simple website in under 10 minutes.
 authors:
@@ -13,7 +13,7 @@ categories:
 - 教程
 date: "2016-04-20T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
-featured: false
+featured: true
 draft: false
 
 # Featured image
