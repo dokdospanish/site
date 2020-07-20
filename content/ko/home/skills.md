@@ -15,16 +15,16 @@ subtitle = "바교하세요!"
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "mask"
+  icon = "handshake"
   icon_pack = "fas"
-  name = "다른 밴더"
-  description = "50%"
+  name = "Reliabile"
+  description = "Never miss a deadline. Something peace of mind"
   
 [[feature]]
-  icon = "user-secret"
+  icon = "pen-fancy"
   icon_pack = "fas"
-  name = "다른 밴더"
-  description = "50%"
+  name = "Handcrafted human translations"
+  description = "Bespoken translation that fits your needs"
   
 [[feature]]
   icon = "piggy-bank"
