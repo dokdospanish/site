@@ -14,7 +14,7 @@ draft: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ""
+  caption: "This is the caption of my featured imnage."
   focal_point: ""
 
 # Projects (optional).
