@@ -45,7 +45,9 @@ jupyter lab index.ipynb
 The `jupyter` command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.
 
 
-!["This is a broken image."](./index_1_0.png)
+![This is a broken image.](./index_1_0.png)
+
+![This is a broken image.](./WebtoonProcess.png)
 
 
 ## Edit your post metadata
