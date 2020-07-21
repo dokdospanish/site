@@ -14,7 +14,7 @@ draft: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: "This is the caption of my featured image."
+  caption: "This is the caption of my featured image"
   focal_point: ""
 
 # Projects (optional).
@@ -58,9 +58,11 @@ The `jupyter` command above will launch the JupyterLab editor, allowing us to ad
 
 
 This is a broken image:
+
 ![This is a broken image](./index_1_0.png)
 
 This is a working image:
+
 ![This is a working image](./WebtoonProcess.png)
 
 ## Edit your post metadata
