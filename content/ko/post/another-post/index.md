@@ -88,3 +88,4 @@ This post was created with Jupyter. The orginal files can be found at https://gi
 |-----|--------|
 |Apple|3       |
 |Egg  |12      |
+|Image  |![](./WebtoonProcess.png)      |
