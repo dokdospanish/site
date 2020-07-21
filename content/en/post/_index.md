@@ -1,6 +1,5 @@
 ---
 title: Posts
-aliases = ["/post/another-post/"]
 
 # View.
 #   1 = List
