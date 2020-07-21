@@ -1,3 +1,1 @@
----
-translationKey: "about"
----
+## We're working on the translation.
