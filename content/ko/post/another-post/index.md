@@ -1,5 +1,5 @@
 ---
-title: Display Jupyter Notebooks with Academic
+title: 나는 블로그 포스트다.
 subtitle: Learn how to blog in Academic using Jupyter notebooks
 summary: Learn how to blog in Academic using Jupyter notebooks
 authors:
