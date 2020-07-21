@@ -81,3 +81,10 @@ jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
 ## Example
 
 This post was created with Jupyter. The orginal files can be found at https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter
+
+## A table
+
+|Name |Quantity|
+|-----|--------|
+|Apple|3       |
+|Egg  |12      |
