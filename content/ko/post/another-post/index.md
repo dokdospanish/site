@@ -46,7 +46,7 @@ The `jupyter` command above will launch the JupyterLab editor, allowing us to ad
 
 This is a broken image:
 
-![This is a broken image.](./index_1_0.png)
+![Broken image](./index_1_0.png)
 
 ![This is NOT a broken image.](./WebtoonProcess.png)
 
