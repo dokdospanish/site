@@ -1,5 +1,5 @@
 ---
-title: Display Jupyter Notebooks with Academic
+title: 나는 블로그 포스트다. 
 subtitle: Learn how to blog in Academic using Jupyter notebooks
 summary: Learn how to blog in Academic using Jupyter notebooks
 authors:
@@ -9,12 +9,12 @@ categories: []
 date: "2019-02-05T00:00:00Z"
 lastMod: "2019-09-05T00:00:00Z"
 featured: false
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ""
+  caption: "This is the caption of my featured image."
   focal_point: ""
 
 # Projects (optional).
@@ -26,24 +26,8 @@ image:
 projects: []
 ---
 
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
-
-
-
-
-
-
-
-
-
-```python
-print("Welcome to Academic!")
-```
-
-    Welcome to Academic!
+Bla bla bla bla bla.
+Lararararararararararararararararararara.
 
 
 ## Install Python and JupyterLab
@@ -73,8 +57,11 @@ The `jupyter` command above will launch the JupyterLab editor, allowing us to ad
 
 
 
+This is a broken image:
+![This is a broken image](./index_1_0.png)
 
-![This is the alternative text](./index_1_0.png)
+This is a working image:
+![This is a working image](./WebtoonProcess.png)
 
 ## Edit your post metadata
 
