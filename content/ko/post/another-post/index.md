@@ -14,7 +14,7 @@ draft: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: "This is the caption of my featured imnage."
+  caption: "This is the caption of my featured image."
   focal_point: ""
 
 # Projects (optional).
@@ -25,26 +25,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
-
-
-
-
-![png](./index_1_0.png)
-
-
-
-
-```python
-print("Welcome to Academic!")
-```
-
-    Welcome to Academic!
-
 
 ## Install Python and JupyterLab
 
@@ -63,6 +43,10 @@ jupyter lab index.ipynb
 ```
 
 The `jupyter` command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.
+
+
+!["This is a broken image."](./index_1_0.png)
+
 
 ## Edit your post metadata
 
