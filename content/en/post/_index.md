@@ -1,5 +1,6 @@
 ---
 title: Posts
+aliases = ["/post/another-post/"]
 
 # View.
 #   1 = List
@@ -11,7 +12,4 @@ view: 3
 header:
   caption: ""
   image: ""
-  
-aliases =
-          -"/en/post/another-post/"
 ---
