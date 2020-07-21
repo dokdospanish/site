@@ -1,1 +1,3 @@
-https://www.dokdospanish.com/en/
+---
+translationKey: "about"
+---
