@@ -34,7 +34,7 @@ Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-fl
 
 
 
-![png](./index_1_0.png)
+
 
 
 
@@ -63,6 +63,18 @@ jupyter lab index.ipynb
 ```
 
 The `jupyter` command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.
+
+
+
+
+
+
+
+
+
+
+
+![This is the alternative text](./index_1_0.png)
 
 ## Edit your post metadata
 
