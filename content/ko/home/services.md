@@ -49,20 +49,20 @@ height = "calc(100vh - 70px)"
   cta_icon = "check-square"
 
 [[item]]
-  title = "녹음"
-  content = "편집? 교육?"
+  title = "Script adaptation"
+  content = "더빙하려면 꼭 필요한 단계"
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "slider/eiffel_453x900.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "slider/out_of_focus_910x1365.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.7  # Darken the image. Value in range 0-1.
   
 [[item]]
-  title = "스퀘어"
-  content = "나는 피터파터다. ㅋㅋㅋㅋㅋ"
+  title = "Copyediting"
+  content = "번역보다 고객님 설득하자!"
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "slider/square_704.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "slider/greenyellow_smear_1920x1280.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 +++
