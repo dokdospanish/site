@@ -65,4 +65,18 @@ height = "calc(100vh - 70px)"
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "slider/greenyellow_smear_1920x1280.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  
+[[item]]
+  title = "Copyediting"
+  content = "번역보다 고객님 설득하자!"
+  align = "left"
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "slider/greenyellow_smear_1920x1280.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  
+  cta_label = "바로가기"
+  cta_url = "https://sourcethemes.com/academic/"
+  #cta_icon_pack = "fas"
+  #cta_icon = "check-square"
 +++
