@@ -34,7 +34,7 @@
   
 [[main]]
   name = "블로그"
-  url = "post"   #Notice the lack of hashtag, so it redirects to a different page (.com/en/post/), not a section of the homepage
+  url = "post"   #Notice the lack of hashtag, so it redirects to a different page (.com/en/post/_index.md), not a section of the homepage
   weight = 30
 
 [[main]]
