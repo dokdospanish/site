@@ -15,6 +15,16 @@ height = "calc((100vh - 70px)/2)"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
+
+[[item]]
+  title = "Copyediting"
+  content = "번역보다 고객님 설득하자!"
+  align = "left"
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "slider/greenyellow_smear_1920x1280.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+
 [[item]]
   title = "콘텐츠 번역"
   content = "유튜버를 위한 완성형 자막"
@@ -56,15 +66,6 @@ height = "calc((100vh - 70px)/2)"
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "slider/out_of_focus_910x1365.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
-  
-[[item]]
-  title = "Copyediting"
-  content = "번역보다 고객님 설득하자!"
-  align = "left"
-
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = "slider/greenyellow_smear_1920x1280.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
   
 [[item]]
   title = "Copyediting"
