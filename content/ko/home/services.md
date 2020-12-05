@@ -18,7 +18,7 @@ height = "calc(50vh - 70px)"
 
 [[item]]
   title = "Copyediting"
-  content = "번역은 하나의 광고! 글로벌 비즈니스의 시작점입니다."
+  content = "번역보다 고객님 설득하자!"
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
@@ -27,7 +27,7 @@ height = "calc(50vh - 70px)"
 
 [[item]]
   title = "콘텐츠 번역"
-  content = "고퀄리티 영상에 어울리는 완벽한 자막"
+  content = "유튜버를 위한 완성형 자막"
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -59,8 +59,8 @@ height = "calc(50vh - 70px)"
   cta_icon = "check-square"
 
 [[item]]
-  title = "대본 각색 및 번안"
-  content = "더빙을 위한 기초작업"
+  title = "Script adaptation"
+  content = "더빙하려면 꼭 필요한 단계"
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
@@ -69,7 +69,7 @@ height = "calc(50vh - 70px)"
   
 [[item]]
   title = "Copyediting"
-  content = "번역은 하나의 광고! 글로벌 비즈니스의 시작점입니다!"
+  content = "번역보다 고객님 설득하자!"
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
