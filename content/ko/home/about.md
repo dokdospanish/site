@@ -50,8 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **Dokdo Spanish**!
+Welcome to the **독도 스페인어**!
 
-Follow our unique business proposition and Page Builder guides to easily personalize the template and then add your own content
+**번역은 단순히 한국어를 다른 언어로  옮겨 적는 것이 아닙니다.** 
 
->For inspiration, check out the Markdown files which power the [personal demo](https://academic-demo.netlify.com/). The easiest way to reach blabla markets your new site to the internet is with Dokdo Spanish.
+좋은 번역이란 원문의 의미와 가치를 살릴 줄 알아야 합니다. 타겟 시장에 꼭 맞춘 전문적이고 고급스러운 독도 스페인어의 번역은 고객의 비즈니스에 힘이 되어 드립니다.
