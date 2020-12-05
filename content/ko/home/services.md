@@ -59,8 +59,8 @@ height = "calc(50vh - 70px)"
   cta_icon = "check-square"
 
 [[item]]
-  title = "Script adaptation"
-  content = "더빙하려면 꼭 필요한 단계"
+  title = "대본 각색 및 번안"
+  content = "더빙을 위한 기초작업"
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
@@ -69,7 +69,7 @@ height = "calc(50vh - 70px)"
   
 [[item]]
   title = "Copyediting"
-  content = "번역보다 고객님 설득하자!"
+  content = "번역은 하나의 광고! 번역은 글로벌 비즈니스의 시작점입니다.!"
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
