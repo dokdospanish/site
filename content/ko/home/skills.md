@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Why choose 독·스?"
-subtitle = "바교하세요!"
+title = "왜 **독도 스페인어** 인가?"
+subtitle = "비교하세요!"
 
 # Showcase personal skills or business features.
 # 
@@ -17,20 +17,20 @@ subtitle = "바교하세요!"
 [[feature]]
   icon = "pen-fancy"
   icon_pack = "fas"
-  name = "Handcrafted human translations"
-  description = "Bespoken translation that fits your needs"
+  name = "장인정신을 담아"
+  description = "고객의 니즈에 꼭 맞춘 번역. 흉내 낼 수 없는 감성 맞춤형 번역."
   
 [[feature]]
   icon = "spell-check"
   icon_pack = "fas"
-  name = "Unlimited revisions"
-  description = "Reliabile. Never miss a deadline. Something peace of mind"
+  name = "신뢰를 담아"
+  description = "지킬 수 있는 약속만 드립니다. 고객에게 마음의 평화를 드립니다."
   
 [[feature]]
   icon = "piggy-bank"
   icon_pack = "fas"
-  name = "시간은 돈이다!"
-  description = "영어 번역하고 남미 소재 번역가한테 스페인어 번역을 의뢰하면은 1주일, **독·스는 딱 하루!**" 
+  name = "효율과 효과를 동시에  잡아"
+  description = "한국어 직역으로 시간을 줄이고, 완성도는 높입니다." 
 
 # Uncomment to use emoji icons.
 # [[feature]]
