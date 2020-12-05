@@ -54,4 +54,4 @@ Welcome to the **Dokdo Spanish**!
 
 Follow our unique business proposition and Page Builder guides to easily personalize the template and then add your own content
 
-For inspiration, check out the Markdown files which power the [personal demo](https://academic-demo.netlify.com/). The easiest way to reach blabla markets your new site to the internet is with Dokdo Spanish.
+>For inspiration, check out the Markdown files which power the [personal demo](https://academic-demo.netlify.com/). The easiest way to reach blabla markets your new site to the internet is with Dokdo Spanish.
