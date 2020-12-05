@@ -24,7 +24,8 @@ subtitle = "비교하세요!"
   icon = "spell-check"
   icon_pack = "fas"
   name = "신뢰를 담아"
-  description = "지킬 수 있는 약속만 드립니다. 고객에게 마음의 평화를 드립니다."
+  description = "지킬 수 있는 약속만 드립니다. 
+  고객에게 마음의 평화를 드립니다."
   
 [[feature]]
   icon = "piggy-bank"
