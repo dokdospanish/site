@@ -17,7 +17,7 @@ height = "calc(45vh - 70px)"
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "Copyediting"
+  title = "**Copyediting**"
   content = "번역은 하나의 광고! 글로벌 비지니스의 시작점입니다."
   align = "left"
 
@@ -26,7 +26,7 @@ height = "calc(45vh - 70px)"
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "콘텐츠 번역"
+  title = "**콘텐츠 번역**"
   content = "하이퀄리티 영상에 어울리는 완성형 자막"
   align = "left"  # Choose `center`, `left`, or `right`.
 
@@ -45,7 +45,7 @@ height = "calc(45vh - 70px)"
   cta_icon = "youtube"
 
 [[item]]
-  title = "원어민 교정"
+  title = "**원어민 교정**"
   content = "완벽하고 자연스러운 표현을 위한 마지막 터치 :100:"
   align = "left"
 
@@ -59,7 +59,7 @@ height = "calc(45vh - 70px)"
   cta_icon = "check-square"
 
 [[item]]
-  title = "Script adaptation"
+  title = "**Script adaptation**"
   content = "더빙을 위한 기초 작업"
   align = "left"
 
@@ -68,7 +68,7 @@ height = "calc(45vh - 70px)"
   overlay_filter = 0  # Darken the image. Value in range 0-1.
   
 [[item]]
-  title = "Copyediting"
+  title = "**Copyediting**"
   content = "번역은 하나의 광고! 글로벌 비지니스의 시작점입니다."
   align = "left"
 
