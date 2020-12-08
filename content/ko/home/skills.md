@@ -24,13 +24,13 @@ subtitle = "비교하세요!"
   icon = "spell-check"
   icon_pack = "fas"
   name = "**신뢰를 담아**"
-  description = "Reliabile. Never miss a deadline. Something peace of mind"
+  description = "지킬 수 있는 약속만 드립니다. 고객에게 마음의 평화를 드립니다."
   
 [[feature]]
   icon = "piggy-bank"
   icon_pack = "fas"
   name = "**효율과 효과를 동시에  잡아**"
-  description = "한국어 직역으로 시간을 줄이고, 완성도는 높입니다." 
+  description = "한국어 직역으로 시간은 줄이고, 완성도는 높입니다." 
 
 # Uncomment to use emoji icons.
 # [[feature]]
