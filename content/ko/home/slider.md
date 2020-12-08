@@ -60,7 +60,7 @@ height = "calc(45vh - 70px)"
 
 [[item]]
   title = "Script adaptation"
-  content = "더빙하려면 꼭 필요한 단계"
+  content = "더빙을 위한 기초 작업"
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
@@ -69,7 +69,7 @@ height = "calc(45vh - 70px)"
   
 [[item]]
   title = "Copyediting"
-  content = "번역보다 고객님 설득하자!"
+  content = "번역은 하나의 광고! 글로벌 비지니스의 시작점입니다."
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
