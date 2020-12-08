@@ -22,7 +22,7 @@ height = "calc(45vh - 70px)"
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "slider/greenyellow_smear_1920x1280.jpg"  # Image path relative to your `static/img/` folder.
+  # overlay_img = "slider/greenyellow_smear_1920x1280.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -50,7 +50,7 @@ height = "calc(45vh - 70px)"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "color_pencils_612x405.jpg"  # Image path relative to your `static/img/` folder.
+  # overlay_img = "color_pencils_612x405.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   cta_label = "바로가기"
@@ -64,7 +64,7 @@ height = "calc(45vh - 70px)"
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "slider/out_of_focus_910x1365.jpg"  # Image path relative to your `static/img/` folder.
+  # overlay_img = "slider/out_of_focus_910x1365.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
   
 [[item]]
@@ -73,7 +73,7 @@ height = "calc(45vh - 70px)"
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "slider/slider_draft.png"  # Image path relative to your `static/img/` folder.
+  # overlay_img = "slider/slider_draft.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
   
   cta_label = "바로가기"
