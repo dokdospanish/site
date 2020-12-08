@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Why choose **독도 스페인어**?"
+title = "왜 **독도 스페인어**?"
 subtitle = "비교하세요!"
 
 # Showcase personal skills or business features.
@@ -17,7 +17,7 @@ subtitle = "비교하세요!"
 [[feature]]
   icon = "pen-fancy"
   icon_pack = "fas"
-  name = "Handcrafted human translations"
+  name = "**장인정신을 담아**"
   description = "Bespoken translation that fits your needs"
   
 [[feature]]
