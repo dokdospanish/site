@@ -68,7 +68,7 @@ height = "calc(45vh - 70px)"
   overlay_filter = 0  # Darken the image. Value in range 0-1.
   
 [[item]]
-  title = <span style="color:red">"**Copyediting**</span>"
+  title = "<span style="color:red">**Coditing**</span>"
   content = "번역은 하나의 광고! 글로벌 비지니스의 시작점입니다."
   align = "left"
 
