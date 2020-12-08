@@ -18,7 +18,7 @@ height = "calc(45vh - 70px)"
 
 [[item]]
   title = "Copyediting"
-  content = "번역보다 고객님 설득하자!"
+  content = "번역은 하나의 광고! 글로벌 비지니스의 시작점입니다."
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
@@ -27,7 +27,7 @@ height = "calc(45vh - 70px)"
 
 [[item]]
   title = "콘텐츠 번역"
-  content = "유튜버를 위한 완성형 자막"
+  content = "하이퀄리티 영상에 어울리는 완성형 자막"
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
