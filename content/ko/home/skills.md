@@ -23,13 +23,13 @@ subtitle = "비교하세요!"
 [[feature]]
   icon = "spell-check"
   icon_pack = "fas"
-  name = "Unlimited revisions"
+  name = "**신뢰를 담아**"
   description = "Reliabile. Never miss a deadline. Something peace of mind"
   
 [[feature]]
   icon = "piggy-bank"
   icon_pack = "fas"
-  name = "시간은 돈이다!"
+  name = "**효율과 효과를 동시에  잡아**"
   description = "영어 번역하고 남미 소재 번역가한테 스페인어 번역을 의뢰하면은 1주일, **독·스는 딱 하루!**" 
 
 # Uncomment to use emoji icons.
