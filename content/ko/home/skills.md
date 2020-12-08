@@ -18,7 +18,7 @@ subtitle = "비교하세요!"
   icon = "pen-fancy"
   icon_pack = "fas"
   name = "**장인정신을 담아**"
-  description = "Bespoken translation that fits your needs"
+  description = "고객의 니즈에 꼭 맞춘 번역. 흉내 낼 수 없는 감성 맞춤형 번역."
   
 [[feature]]
   icon = "spell-check"
