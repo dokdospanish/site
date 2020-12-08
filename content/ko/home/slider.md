@@ -17,7 +17,7 @@ height = "calc(45vh - 70px)"
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "**Copyediting**"
+  title = "[**Copyediting**](https://www.google.com)"
   content = "번역은 하나의 광고! 글로벌 비지니스의 시작점입니다."
   align = "left"
 
