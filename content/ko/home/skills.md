@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Why choose 독·스?"
-subtitle = "바교하세요!"
+title = "Why choose **독도 스페인어**?"
+subtitle = "비교하세요!"
 
 # Showcase personal skills or business features.
 # 
