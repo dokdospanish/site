@@ -30,7 +30,7 @@ subtitle = "비교하세요!"
   icon = "piggy-bank"
   icon_pack = "fas"
   name = "**효율과 효과를 동시에  잡아**"
-  description = "영어 번역하고 남미 소재 번역가한테 스페인어 번역을 의뢰하면은 1주일, **독·스는 딱 하루!**" 
+  description = "한국어 직역으로 시간을 줄이고, 완성도는 높입니다." 
 
 # Uncomment to use emoji icons.
 # [[feature]]
