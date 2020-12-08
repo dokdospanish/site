@@ -17,7 +17,7 @@ height = "calc(45vh - 70px)"
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "[**Copyediting**](https://www.google.com)"
+  title = "**Copyediting**"
   content = "번역은 하나의 광고! 글로벌 비지니스의 시작점입니다."
   align = "left"
 
@@ -68,7 +68,7 @@ height = "calc(45vh - 70px)"
   overlay_filter = 0  # Darken the image. Value in range 0-1.
   
 [[item]]
-  title = "**Copyediting**"
+  title = <span style="color:red">"**Copyediting**</span>"
   content = "번역은 하나의 광고! 글로벌 비지니스의 시작점입니다."
   align = "left"
 
