@@ -59,7 +59,7 @@ height = "calc(45vh - 70px)"
   cta_icon = "check-square"
 
 [[item]]
-  title = "**Script adaptation**"
+  title = "**대본 번역**"
   content = "더빙을 위한 기초 작업"
   align = "left"
 
