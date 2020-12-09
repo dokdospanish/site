@@ -69,7 +69,7 @@ height = "calc(45vh - 70px)"
   
 [[item]]
   title = "**Copywriting**"
-  content = "번역은 하나의 광고! 글로벌 비지니스의 시작점입니다."
+  content = "현지화 전략의 든든한 파트너가 되어드립니다."
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
